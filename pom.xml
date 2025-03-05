@@ -29,7 +29,8 @@
 	</scm>
 	<properties>
 		<java.version>17</java.version>
-		<de.flapdoodle.embed.mongo.version>3.0.0</de.flapdoodle.embed.mongo.version>
+		<de.flapdoodle.embed.mongo.version>4.9.1</de.flapdoodle.embed.mongo.version>
+		<mongodb-embedded.version>6.0.5</mongodb-embedded.version>
 	</properties>
 	<dependencies>
 		<dependency>
